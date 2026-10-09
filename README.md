@@ -1,16 +1,40 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# GDG Frontend Task
 
-Currently, two official plugins are available:
+Responsive portfolio website built using React, JavaScript, and CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Responsive design
+- Dark and light mode
+- Smooth animations
+- Interactive navigation and FAQ
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies
 
-## Expanding the Oxlint configuration
+- React
+- JavaScript (JSX)
+- CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Setup
+
+Install dependencies:
+
+    npm install
+
+Start the development server:
+
+    npm run dev
+
+Build for production:
+
+    npm run build
+
+## GitHub
+
+https://github.com/sakshambarapatre99/gdg-frontend_task
+
+## Live Website
+
+Add your deployed website URL here.
